@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+release/
+qa/
+.pytest_cache/
+*.ncm
+*.flac
+*.mp3
+*.lrc
+*.log
+.ncm-studio/

@@ -1,0 +1,6 @@
+PySide6-Essentials>=6.8,<7
+cryptography>=46,<51
+numpy>=2.2,<3
+soundfile==0.13.1
+mutagen==1.47.0
+Pillow>=11,<13
